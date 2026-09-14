@@ -1,1 +1,3 @@
-# Programa-o-Orientada-a-Objetos
+# Programa-Orientada-a-Objetos
+
+Tarefas desenvolvidas durantes as aulas.
